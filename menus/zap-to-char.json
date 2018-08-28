@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Zap to char",
+          "submenu": [
+            {
+              "label": "Zap to char",
+              "command": "zap-to-char:zap-to-char"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

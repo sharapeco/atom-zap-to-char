@@ -1,0 +1,2 @@
+"atom-text-editor:not([mini])":
+	"alt-z": "zap-to-char:zap-to-char"
