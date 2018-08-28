@@ -1,7 +1,7 @@
 {
   "name": "zap-to-char",
   "main": "./lib/zap-to-char",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "zap-to-char",
   "keywords": [
     "xyzzy",
@@ -10,11 +10,10 @@
   "activationCommands": {
     "atom-workspace": "zap-to-char:zap-to-char"
   },
-  "repository": "https://github.com/atom/atom-zap-to-char",
+  "repository": "https://github.com/sharapeco/atom-zap-to-char",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
