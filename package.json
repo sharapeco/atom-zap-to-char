@@ -1,7 +1,7 @@
 {
   "name": "zap-to-char",
   "main": "./lib/zap-to-char",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "zap-to-char",
   "keywords": [
     "xyzzy",
