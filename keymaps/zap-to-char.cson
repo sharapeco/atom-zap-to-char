@@ -1,2 +1,5 @@
-"atom-text-editor:not([mini])":
+":not(.platform-darwin) atom-text-editor:not([mini])":
 	"alt-z": "zap-to-char:zap-to-char"
+
+".platform-darwin atom-text-editor:not([mini])":
+	"cmd-z": "zap-to-char:zap-to-char"
